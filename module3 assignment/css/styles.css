@@ -1,0 +1,47 @@
+/** HEADER **/
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+  }
+  .navbar-brand h1 { 
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-size: 1.8em;
+    
+    font-weight: bold;
+    
+    margin-top: 5px;
+    margin-bottom: 5px;
+    line-height: .75;
+  }
+
+#nav-list {
+    margin-top: 10px;
+    color: black;
+    background-color: white;
+    text-align: center;
+  }
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid white;
+  }
+  h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.2em;
+
+  }
+  h3{
+      text-align: center;
+      font-weight: bold;
+      
+  }
+  section{
+      background-color: gray;
+      opacity: .9;
+      color: #000;
+  }
+  #sec-text{
+      margin: 5px,5px,5px,5px;
+  }
